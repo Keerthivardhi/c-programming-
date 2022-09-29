@@ -17,6 +17,10 @@ int main ()
  {
   printf("\n\n %d is the maximum number.\n\n",*ptr1);
  }
+ if(*ptr1=*ptr2)
+ {
+  printf("\n\n %d both are same.\n\n",*ptr1=*ptr2);
+ }
  else
  {
   printf("\n\n %d is the maximum number.\n\n",*ptr2);
